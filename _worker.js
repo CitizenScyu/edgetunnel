@@ -820,7 +820,7 @@ async function getVLESSConfig(userID, hostName, sub, userAgent, RproxyIP) {
 	
 		return `
 	################################################################
-	Subscribe / sub 订阅地址, 支持 Base64、clash-meta、sing-box 订阅格式, 您的订阅内容由 ${sub} 提供维护支持, 自动获取ProxyIP: ${RproxyIP}.
+	Subscribe / sub 订阅地址, 支持 Base64、clash-meta、sing-box 订阅格式, 您的订阅内容由 大象永远不会忘记 提供维护支持, 自动获取ProxyIP: ${RproxyIP}.
 	---------------------------------------------------------------
 	https://${hostName}/${userID}
 	---------------------------------------------------------------
